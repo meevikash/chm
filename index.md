@@ -1,5 +1,6 @@
 ## Chemistry 
-from https://www.chem.tamu.edu/class/fyp/mcquest/ch28.html
+from https://www.chem.tamu.edu/class/fyp/mcquest/ch01.html
+go to the link
 ```
 1.
 Of the following name/symbol combinations of elements, which one is WRONG?
