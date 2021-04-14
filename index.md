@@ -1,4 +1,5 @@
-## Chemistry
+## Chemistry 
+from https://www.chem.tamu.edu/class/fyp/mcquest/ch28.html
 ```
 1.
 Of the following name/symbol combinations of elements, which one is WRONG?
